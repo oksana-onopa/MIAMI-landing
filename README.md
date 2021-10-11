@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# MIAMI landing page
 Stack: HTML5, CSS3, SASS, Figma, BEM methodology, JS.
 
 Click the link to see [DEMO](https://oksana-onopa.github.io/MIAMI-landing/).
